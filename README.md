@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 CSIT Final Year Student | Full-Stack Developer | AI & Cybersecurity Enthusiast
+👨‍💻 CSIT Final Year Student | Full-Stack Developer | AI, Cloud Computing & Cybersecurity Enthusiast
 
 
 ## 🌐 Socials:

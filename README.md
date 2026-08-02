@@ -21,4 +21,4 @@ Full-Stack Developer | AI & Cybersecurity
 ---
 [![](https://visitcount.itsvg.in/api?id=suraj-kumal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/suraj-kumal/suraj-kumal/blob/output/snake.svg)
+![Space Shooter](https://github.com/suraj-kumal/suraj-kumal/blob/main/assets/space-shooter.gif)

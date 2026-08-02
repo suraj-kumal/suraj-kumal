@@ -21,4 +21,4 @@ Full-Stack Developer | AI & Cybersecurity
 ---
 [![](https://visitcount.itsvg.in/api?id=suraj-kumal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Space Shooter](https://raw.githubusercontent.com/suraj-kumal/suraj-kumal/main/assets/gh-space-shooter.gif)
+![Space Shooter](https://github.com/suraj-kumal/suraj-kumal/raw/main/gh-space-shooter.gif)

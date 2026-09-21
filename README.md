@@ -1,6 +1,8 @@
 # whoami 
 Software Engineer | Security Researcher
 
+<img src="https://komarev.com/ghpvc/?username=suraj-kumal&style=for-the-badge" alt="Profile views" />
+
 
 ## Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/suraj.kumal.17) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surajkumal_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-kumal-58881a338) 

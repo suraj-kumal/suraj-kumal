@@ -21,7 +21,7 @@ Software Engineer | Security Researcher
 ![Burp Suite](https://img.shields.io/badge/burp%20suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 <p align="center">
-  <img src="https://github.com/suraj-kumal/suraj-kumal/raw/main/animations/koi.gif" width="480" alt="Koi" />
+  <img src="https://github.com/suraj-kumal/suraj-kumal/raw/main/animations/koi.gif" width="256" alt="Koi" />
 </p>
 
 ## GitHub Stats

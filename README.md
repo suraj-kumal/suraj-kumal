@@ -20,7 +20,9 @@ Software Engineer | Security Researcher
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/burp%20suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-![Koi](https://github.com/suraj-kumal/suraj-kumal/raw/main/animations/koi.gif)
+<p align="center">
+  <img src="https://github.com/suraj-kumal/suraj-kumal/raw/main/animations/koi.gif" width="480" alt="Koi" />
+</p>
 
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=suraj-kumal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>

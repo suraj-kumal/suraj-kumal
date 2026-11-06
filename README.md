@@ -35,4 +35,6 @@ Software Engineer | Security Researcher
 ---
 [![](https://visitcount.itsvg.in/api?id=suraj-kumal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Space Shooter](https://github.com/suraj-kumal/suraj-kumal/raw/main/gh-space-shooter.gif)
+<!--![Space Shooter](https://github.com/suraj-kumal/suraj-kumal/raw/main/gh-space-shooter.gif)
+-->
+![Space Shooter](https://github.com/suraj-kumal/suraj-kumal/raw/main/animations/space-shooter.gif)

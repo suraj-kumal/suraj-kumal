@@ -29,10 +29,8 @@ Software Engineer | Security Researcher
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suraj-kumal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-kumal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Top Languages](https://ghstats.dev/api/langs?username=suraj-kumal&max_langs=12&layout=donut_vertical)
+![Top Languages](https://ghstats.dev/api/langs?username=suraj-kumal&theme=nightowl&max_langs=12&layout=donut_vertical)
 
 [![](https://visitcount.itsvg.in/api?id=suraj-kumal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!--![Space Shooter](https://github.com/suraj-kumal/suraj-kumal/raw/main/gh-space-shooter.gif)
--->
 ![Space Shooter](https://github.com/suraj-kumal/suraj-kumal/raw/main/animations/space-shooter.gif)

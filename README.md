@@ -27,7 +27,6 @@ Software Engineer | Security Researcher
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=suraj-kumal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suraj-kumal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-kumal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![Top Languages](https://ghstats.dev/api/langs?username=suraj-kumal&theme=catppuccin&hide_border=true&hide_title=true&max_langs=12&layout=donut_vertical)
 
